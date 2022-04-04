@@ -1,5 +1,5 @@
 {
-	"appId": "io.ionic.starter",
+	"appId": "com.example.app",
 	"appName": "primeraApp",
 	"webDir": "www",
 	"bundledWebRuntime": false
